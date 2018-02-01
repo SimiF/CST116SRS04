@@ -2,7 +2,7 @@
 Triangle
 
 
-Class ID: 
+Class ID: Vulpix 
 
 SRS ID: CST116SRS04
 
