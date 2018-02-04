@@ -6,9 +6,9 @@ Class ID: Vulpix
 
 SRS ID: CST116SRS04
 
-Unresolved Issues:  
+Unresolved Issues: None
 
-Notes:  
+Notes: 
 
 
 ---
